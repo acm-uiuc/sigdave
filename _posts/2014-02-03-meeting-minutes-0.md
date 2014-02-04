@@ -2,7 +2,6 @@
 layout: post
 title:  "First Meeting Minutes"
 date:   2014-02-03 21:05:17
-categories: minutes
 ---
 
 ## Current Projects ##
