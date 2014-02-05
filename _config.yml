@@ -1,3 +1,4 @@
 name: SigDave
 markdown: redcarpet
 pygments: true
+baseurl: /sigdave
