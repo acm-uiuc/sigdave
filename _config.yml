@@ -1,4 +1,4 @@
 name: SigDave
-markdown: redcarpet
+markdown: maruku
 pygments: true
 baseurl: /sigdave
