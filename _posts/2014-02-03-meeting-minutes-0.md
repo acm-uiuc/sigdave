@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "First Meeting Minutes"
-date:   2014-02-03 21:05:17
 ---
 
 ## Current Projects ##
@@ -34,4 +33,3 @@ date:   2014-02-03 21:05:17
 
 ## Waiting on ##
 - Lego organization :(
-
