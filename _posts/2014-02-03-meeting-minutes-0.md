@@ -13,7 +13,7 @@ title:  "First Meeting Minutes"
   - Has laser site
   - Linux toolchain at https://github.com/nmilford/stormLauncher
   - May attach to Roomba
-  - laser lowers in play based on proximity
+  - laser lowers in plane based on proximity
 - Wii Remote arrived
 - MCP23017 - i/o expander arrived
 - more LED rope arrived
