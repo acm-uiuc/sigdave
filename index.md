@@ -18,10 +18,12 @@ title: Sig Dave
   </ul>
 
 # DJ Roomba #
-![DJ Roomba Design]( /images/design.svg)
+<p><img src="{{ site.baseurl }}images/design.svg" alt="DJ Roomba Design" /></p>
 ## Pictures ##
-- [doomba]( /images/doomba.jpg )
-- [sonotube mounted]( /images/sonotube.jpg ) 
+<ul>
+  <li><a href="{{ site.baseurl }}images/doomba.jpg">doomba</a></li>
+  <li><a href="{{ site.baseurl }}images/sonotube.jpg">sonotube mounted</a></li>
+</ul>
 
 ## TODO ##
 - Write a wiimote joystick config for working with dj roomba
