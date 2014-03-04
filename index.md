@@ -26,12 +26,4 @@ title: Sig Dave
 </ul>
 
 ## TODO ##
-- Write a wiimote joystick config for working with dj roomba
-- Connect and test Port Expander
-- Take pictures during meetings for easier documentation
-### Storm Launcher ###
-- convert camera feed to image stream
-- ffmpeg to capture video feed
-- analysis red dot trail to get distance estimates
-- add swtich to laser dot
- - Check voltage of wire
+See: [Github Issues](https://github.com/acm-uiuc/DJ-Roomba/issues)
