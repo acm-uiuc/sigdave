@@ -1,4 +1,4 @@
 name: SigDave
-markdown: maruku
+markdown: kramdown
 pygments: true
 baseurl: /sigdave/
