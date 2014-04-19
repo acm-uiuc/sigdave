@@ -18,12 +18,16 @@ title: Sig Dave
   </ul>
 
 # DJ Roomba #
+
 <p><img src="{{ site.baseurl }}images/design.svg" alt="DJ Roomba Design" /></p>
+
 ## Pictures ##
+
 <ul>
   <li><a href="{{ site.baseurl }}images/doomba.jpg">doomba</a></li>
   <li><a href="{{ site.baseurl }}images/sonotube.jpg">sonotube mounted</a></li>
 </ul>
 
 ## TODO ##
+
 See: [Github Issues](https://github.com/acm-uiuc/DJ-Roomba/issues)
