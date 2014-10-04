@@ -1,4 +1,4 @@
 name: SigDave
 markdown: kramdown
-pygments: true
+highlighter: pygments
 baseurl: /sigdave/
