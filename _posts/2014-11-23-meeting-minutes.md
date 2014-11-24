@@ -17,8 +17,8 @@ Chris Han created a 3d model to house the foodbutton electronics.
 
 Take a look!
 
-- https://github.com/acm-uiuc/Food-Button/blob/master/lid.stl
-- https://github.com/acm-uiuc/Food-Button/blob/master/box.stl
+- [https://github.com/acm-uiuc/Food-Button/blob/master/lid.stl](https://github.com/acm-uiuc/Food-Button/blob/master/lid.stl)
+- [https://github.com/acm-uiuc/Food-Button/blob/master/box.stl](https://github.com/acm-uiuc/Food-Button/blob/master/box.stl)
 
 I also just submitted the jobs for the ACM 3d printer.
 
