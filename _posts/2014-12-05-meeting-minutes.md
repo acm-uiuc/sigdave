@@ -7,9 +7,9 @@ layout: post
 
 First things first, DJ Roomba's lights are almost completely 
 soldered. As such we've started to reboot active development on 
-DJ Roomba in preparation for EOH. We've talked now about adding
-a food tray/party platter for holding snacks as well as an 
-infrared sensor for following preconfigured paths.
+DJ Roomba in preparation for EOH. A food tray/party platter for
+holding snacks as well as an infrared sensor for following 
+preconfigured paths have been discussed at future additions.
 
 ## Party Platter ##
 
@@ -21,8 +21,6 @@ layered).
 might need to be cushioned by high desnsity foam.
 - High walls are preferable to avoid food falling out due to music 
 or roomba movement.
-
-Stay Tuned!
 
 ## Line Following ##
 
@@ -39,8 +37,8 @@ food from the tray or in the way.
 
 <img src="{{ site.baseurl }}images/sticker.jpg" />
 
-We developing all of our projects, we always wished we had a whiteboard 
-to work with in the back room. Furthermore, we figured it'd be nice to
+When developing all of our projects, we always wished there was an accessible
+whiteboard to work with in the back room. Furthermore, we figured it'd be nice to
 be able to place parts directly on it to make measurements and facilitate
 design. As such we installed some whiteboard sticker decals on tables in
 the backroom.
