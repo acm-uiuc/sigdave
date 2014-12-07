@@ -20,7 +20,7 @@ might need to be cushioned by high desnsity foam.
 - High walls are preferable to avoid food falling out due to music 
 or roomba movement.
 
-<img src="{{ site.baseurl }}images/part_platter.png />
+<img src="{{ site.baseurl }}images/party_platter.jpg />
 
 Stay Tuned!
 
@@ -29,7 +29,7 @@ Stay Tuned!
 To facilitate automated servicing of party guests, we hope to 
 incorporate preconfigured paths that DJ Roomba will move along.
 
-<img src="{{ site.baseurl }}images/track.png />
+<img src="{{ site.baseurl }}images/track.jpg />
 
 The plan is to use an infrared sensor array to follow the line,
 perhaps with some ultrasonic sensors to detect if people are getting 
@@ -43,7 +43,7 @@ be able to place parts directly on it to make measurements and facilitate
 design. As such we installed some whiteboard sticker decals on tables in
 the backroom.
 
-<img src="{{ site.baseurl }}images/sticker.png />
+<img src="{{ site.baseurl }}images/sticker.jpg />
 
 # Waiting for Prints
 
