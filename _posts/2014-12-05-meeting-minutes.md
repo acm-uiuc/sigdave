@@ -13,7 +13,7 @@ infrared sensor for following preconfigured paths.
 
 ## Party Platter ##
 
-<img src="{{ site.baseurl }}images/party_platter.jpg />
+<img src="{{ site.baseurl }}images/party_platter.jpg" />
 
 - Will be positioned near the top of DJ roomba (potentially multi 
 layered). 
@@ -26,7 +26,7 @@ Stay Tuned!
 
 ## Line Following ##
 
-<img src="{{ site.baseurl }}images/track.jpg />
+<img src="{{ site.baseurl }}images/track.jpg" />
 
 To facilitate automated servicing of party guests, we hope to 
 incorporate preconfigured paths that DJ Roomba will move along.
@@ -37,7 +37,7 @@ food from the tray or in the way.
 
 # Whiteboard Sticker
 
-<img src="{{ site.baseurl }}images/sticker.jpg />
+<img src="{{ site.baseurl }}images/sticker.jpg" />
 
 We developing all of our projects, we always wished we had a whiteboard 
 to work with in the back room. Furthermore, we figured it'd be nice to
